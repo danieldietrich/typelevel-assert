@@ -1,6 +1,6 @@
 {
   "name": "typelevel-assert",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convenient assertions for typelevel programming.",
   "keywords": [
     "assert",
