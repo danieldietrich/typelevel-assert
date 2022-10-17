@@ -1,6 +1,6 @@
 <div id="typelevel-logo" align="center">
   <a href="https://github.com/danieldietrich/typelevel">
-    <img alt="Typelevel Logo" width="450" src="https://user-images.githubusercontent.com/743833/196013156-9158e0d0-93eb-4615-a29c-dec51513a37b.png">
+    <img alt="TypeLevel Logo" width="450" src="https://user-images.githubusercontent.com/743833/196072540-36ba3965-2c6f-4746-967e-59598b2acdc8.png">
   </a>
   <h3>
     Lift your code to the next level.
@@ -22,14 +22,14 @@
 <br/>
 
 
-**TypeLevel Assert** provides convenient assertions for type-level programming. It can be used to test types accompanied by any TypeScript library for type-level programming. **TypeLevel Assert** works best with **[TypeLevel](https://github.com/danieldietrich/typelevel)**.
+<tt>**&lt;TypeLevel&gt; Assert**</tt> provides convenient assertions for type-level programming. It can be used to test types accompanied by any TypeScript library for type-level programming. <tt>**&lt;TypeLevel&gt; Assert**</tt> works best with **[<tt>**&lt;TypeLevel&gt;**</tt>](https://github.com/danieldietrich/typelevel)**.
 
-## Usage (here with TypeLevel)
+## Usage
 
 Installation
 
 ```sh
-npm i -D typescript-typelevel typelevel-assert
+npm i -D typelevel-assert typescript-typelevel
 ```
 
 Start to code ([try it out](https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAbzgSQM5wL5wGZQiOAchgE8wBTVAYymDBgFpSKAbcgN3JcIG4AoUJFiI4AQ1SpysACplymHHgLE5bTiwbjJsXnz7N5ACWAAeaXHIAPGOQB2AE3SoYtWwHMAfHAC8cAAbGcAAkCNIYAIR+-HxaUjCyFCZoJsYmhAnkADIcXIQeADREgRnZ6uF5HgAUAJT8QA))
