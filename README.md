@@ -1,6 +1,6 @@
 <div id="typelevel-assert logo" align="center">
-  <img alt="logo dark mode" src="https://user-images.githubusercontent.com/743833/222897642-24a3fe92-4dae-46a1-bf11-2e037340efae.png#gh-dark-mode-only" width=640>
-  <img alt="logo light mode" src="https://user-images.githubusercontent.com/743833/222897442-715789e8-1998-4e16-bb5c-9a5757f88834.png#gh-light-mode-only" width=640>
+  <img alt="logo dark mode" src="https://user-images.githubusercontent.com/743833/222901263-a3e8e994-e27b-40de-a9f0-2ed62ca019bc.png#gh-dark-mode-only" width=640>
+  <img alt="logo light mode" src="https://user-images.githubusercontent.com/743833/222901260-bbd3323f-f759-4649-a877-406b36859642.png#gh-light-mode-only" width=640>
 </div>
 
 <div id="badges" align="center">
