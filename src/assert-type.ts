@@ -4,5 +4,14 @@
  * terms of the MIT License, which is available in the project root.
  ******************************************************************************/
 
-export * from './assert-type';
-export * from './predicates';
+export class TypeAssertionError extends Error {
+    constructor(msg?: string) {
+        super(`Type assertion error` + msg ? ": " + msg : "");
+    }
+}
+
+export function assertType<_T extends true>(condition: any = true, msg?: string): asserts condition {
+    if (!condition) {
+        throw new TypeAssertionError(msg);
+    }
+}
